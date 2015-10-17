@@ -1,3 +1,3 @@
-Hello Software Configuration Management!
-Hello Version Control System!
-Hello SVN!
+1. Hello Software Configuration Management!
+2. Hello Version Control System!
+3. Hello SVN!
